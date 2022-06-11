@@ -25,4 +25,5 @@ WEB URL: `http://localhost:8000`
 ![image](https://drive.google.com/file/d/1ZpfxCoSAwaEi0GcBZr3TpDKfqfUqCc5v/view?usp=sharing)
 ![image](https://drive.google.com/file/d/1m0YHugkzIiwSrmbCZg9E4dvZpDT-38FK/view?usp=sharing)
 
-![image](https://drive.google.com/file/d/1fOmTqwe87QNad60p8MLbD8lFX6ivf_lo/view?usp=sharing)
+#AUTHORIZATION WITH TOKEN
+![image](https://drive.google.com/uc?export=view&id=1JVwrC8-ihjDx6HAEijEhGM_oM5nUAbjN/view)
