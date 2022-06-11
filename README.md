@@ -20,8 +20,7 @@ WEB URL: `http://localhost:8000`
 
 ![image](https://drive.google.com/uc?export=view&id=1dEuVkedpNIjEgoPB_EgLq6zCeQ_ouQzU)
 #PAYMENT
-![image](https://drive.google.com/uc?export=view&id=1PPqDQOFZUKPlQNPIqu6xdZr0hafo3mWu)
-
+![image](https://drive.google.com/uc?export=view&id=18Vs3-k4Qj7GpDRNrMpU9RFdqTXmekT6t)
 ![image](https://drive.google.com/uc?export=view&id=1y5PPOGzQhJaWX5L09CwhFhdidzT2wKm2)
 ![image](https://drive.google.com/uc?export=view&id=1ZpfxCoSAwaEi0GcBZr3TpDKfqfUqCc5v)
 
