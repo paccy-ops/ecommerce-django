@@ -19,10 +19,11 @@ WEB URL: `http://localhost:8000`
 # PROJECT PAGE
 
 ![image](https://drive.google.com/uc?export=view&id=1dEuVkedpNIjEgoPB_EgLq6zCeQ_ouQzU)
+
 #PAYMENT
 ![image](https://drive.google.com/uc?export=view&id=18Vs3-k4Qj7GpDRNrMpU9RFdqTXmekT6t)
-![image](https://drive.google.com/uc?export=view&id=1y5PPOGzQhJaWX5L09CwhFhdidzT2wKm2)
+![image](https://drive.google.com/uc?export=view&id=1qQoFx5ZE1rA19VXGktGolgH2sHzfyOJz)
 ![image](https://drive.google.com/uc?export=view&id=1ZpfxCoSAwaEi0GcBZr3TpDKfqfUqCc5v)
 
-#AUTHORIZATION WITH TOKEN
-![image](https://drive.google.com/uc?export=view&id=1JVwrC8-ihjDx6HAEijEhGM_oM5nUAbjN)
+![image](https://drive.google.com/uc?export=view&id=1PPqDQOFZUKPlQNPIqu6xdZr0hafo3mWu)
+https://drive.google.com/file/d//view?usp=sharing
