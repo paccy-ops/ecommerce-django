@@ -18,12 +18,12 @@ WEB URL: `http://localhost:8000`
 
 # PROJECT PAGE
 
-![image](https://drive.google.com/file/d/1qQoFx5ZE1rA19VXGktGolgH2sHzfyOJz/view?usp=sharing)
+![image](https://drive.google.com/uc?export=view&id=1JVwrC8-ihjDx6HAEijEhGM_oM5nUAbjN)
 #PAYMENT
-![image](https://drive.google.com/file/d/18Vs3-k4Qj7GpDRNrMpU9RFdqTXmekT6t/view?usp=sharing)
+![image](https://drive.google.com/uc?export=view&id=1qQoFx5ZE1rA19VXGktGolgH2sHzfyOJz)
 
-![image](https://drive.google.com/file/d/1ZpfxCoSAwaEi0GcBZr3TpDKfqfUqCc5v/view?usp=sharing)
-![image](https://drive.google.com/file/d/1m0YHugkzIiwSrmbCZg9E4dvZpDT-38FK/view?usp=sharing)
+![image](https://drive.google.com/uc?export=view&id=1y5PPOGzQhJaWX5L09CwhFhdidzT2wKm2)
+![image](https://drive.google.com/uc?export=view&id=1ZpfxCoSAwaEi0GcBZr3TpDKfqfUqCc5v)
 
 #AUTHORIZATION WITH TOKEN
-![image](https://drive.google.com/uc?export=view&id=1JVwrC8-ihjDx6HAEijEhGM_oM5nUAbjN/view)
+![image](https://drive.google.com/uc?export=view&id=1JVwrC8-ihjDx6HAEijEhGM_oM5nUAbjN)
