@@ -21,7 +21,6 @@ WEB URL: `http://localhost:8000`
 ![image](https://drive.google.com/uc?export=view&id=1dEuVkedpNIjEgoPB_EgLq6zCeQ_ouQzU)
 
 ![image](https://drive.google.com/uc?export=view&id=18Vs3-k4Qj7GpDRNrMpU9RFdqTXmekT6t)
-
 ![image](https://drive.google.com/uc?export=view&id=1qQoFx5ZE1rA19VXGktGolgH2sHzfyOJz)
 ![image](https://drive.google.com/uc?export=view&id=1ZpfxCoSAwaEi0GcBZr3TpDKfqfUqCc5v)
 
